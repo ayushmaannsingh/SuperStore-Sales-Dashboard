@@ -1,5 +1,6 @@
 # SuperStore-Sales-Dashboard - Power BI
 
+<img width="1298" height="733" alt="Screenshot 2026-05-23 043917" src="https://github.com/user-attachments/assets/79086544-ddad-4a90-a6e7-38e673d78fdb" />
 
 
 This project is an Interactive SuperStore Sales Dashboard developed using Microsoft Power BI to analyze sales performance and generate meaningful business insights from retail data.
